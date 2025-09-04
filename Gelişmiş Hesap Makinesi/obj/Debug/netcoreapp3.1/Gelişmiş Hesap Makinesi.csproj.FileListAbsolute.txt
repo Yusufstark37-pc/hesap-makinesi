@@ -1,0 +1,7 @@
+C:\Users\YUSUF\Desktop\C# Projeler\HESAP MAKİNESİ\Gelişmiş Hesap Makinesi\obj\Debug\netcoreapp3.1\Gelişmiş Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\YUSUF\Desktop\C# Projeler\HESAP MAKİNESİ\Gelişmiş Hesap Makinesi\obj\Debug\netcoreapp3.1\Gelişmiş_Hesap_Makinesi.Form1.resources
+C:\Users\YUSUF\Desktop\C# Projeler\HESAP MAKİNESİ\Gelişmiş Hesap Makinesi\obj\Debug\netcoreapp3.1\Gelişmiş Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\YUSUF\Desktop\C# Projeler\HESAP MAKİNESİ\Gelişmiş Hesap Makinesi\obj\Debug\netcoreapp3.1\Gelişmiş Hesap Makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YUSUF\Desktop\C# Projeler\HESAP MAKİNESİ\Gelişmiş Hesap Makinesi\obj\Debug\netcoreapp3.1\Gelişmiş Hesap Makinesi.AssemblyInfoInputs.cache
+C:\Users\YUSUF\Desktop\C# Projeler\HESAP MAKİNESİ\Gelişmiş Hesap Makinesi\obj\Debug\netcoreapp3.1\Gelişmiş Hesap Makinesi.AssemblyInfo.cs
+C:\Users\YUSUF\Desktop\C# Projeler\HESAP MAKİNESİ\Gelişmiş Hesap Makinesi\obj\Debug\netcoreapp3.1\Gelişmiş Hesap Makinesi.csproj.CoreCompileInputs.cache
